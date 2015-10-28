@@ -1,0 +1,6 @@
+
+1. getBusPosByRtid(노선ID로 차량들의 위치정보를 조회한다)
+서비스 인증키	ServiceKey=AaxqTg02PVW%2BZhaIkh4fVAIiknK6EU6ZkfT1lQEHEo2PRlldpzfhjoBwE63YKQGpiY4JdZCjCktTW2yatRX%2FgA%3D%3D
+버스 번호 조회하고 나오는 아이디6688의 busRouteId-->  	busRouteId=4662800		
+	http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid?busRouteId=4662800&ServiceKey=AaxqTg02PVW%2BZhaIkh4fVAIiknK6EU6ZkfT1lQEHEo2PRlldpzfhjoBwE63YKQGpiY4JdZCjCktTW2yatRX%2FgA%3D%3D
+	
